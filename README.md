@@ -17,3 +17,4 @@ My data portfolio for data analyst role
 - Python
 - Dashboard
 
+You can find me on LinkedIn www.linkedin.com/in/พร้อมศิริ-อนุนาค-601650147
